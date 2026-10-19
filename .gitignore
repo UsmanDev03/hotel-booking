@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build folder
+dist/
+
+# Vite cache
+.vite/
+
+# Local IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore specific folder
+src/Components/Copy/
+
+# Ignore specific file
+public/favicon.svg
+

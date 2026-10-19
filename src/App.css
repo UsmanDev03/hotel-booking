@@ -1,0 +1,15 @@
+/* ============================================
+   App.css
+   FIX: Poora Vite boilerplate dead code tha —
+   .counter, .hero, #center, #next-steps etc.
+   sab Vite default template ke classes the,
+   is project mein kahi use nahi hote the.
+   Saare undefined CSS variables bhi the:
+   var(--accent), var(--border), var(--social-bg) etc.
+   Sab remove kar diya — App.css clean hai ab.
+   ============================================ */
+
+/* 
+  Project-specific global styles yahan add karo.
+  Component-level styles Tailwind classes se handle ho rahi hain.
+*/
